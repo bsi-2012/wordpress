@@ -29,7 +29,7 @@ Atualmente temos duas versões do WordPress, a .com e a .org, muita gente acaba 
 
 ### Automattic - WordPress Foundation - Audrey Capital
 
-*Automattic: Fundada em 2005, é uma empresa privada com fins lucrativos que mantém e gerencia o WordPress.com e outros projetos como, Jetpack, VaultPress, Akismet, Polldaddy, VideoPress, Gravatar, IntenseDebate, After the Deadline, Plinky, Code Poet, WordPress.com Vip.
+* Automattic: Fundada em 2005, é uma empresa privada com fins lucrativos que mantém e gerencia o WordPress.com e outros projetos como, Jetpack, VaultPress, Akismet, Polldaddy, VideoPress, Gravatar, IntenseDebate, After the Deadline, Plinky, Code Poet, WordPress.com Vip.
 
 * WordPress Foundation: é uma organização sem fins lucrativos que supervisiona a marca registrada WordPress.
 Ambas ganham dinheiro, seja através de doações, ou lucro dos seus produtos, é claro que a Automattic ganha muito mais, já que possui alguns serviços pagos.
