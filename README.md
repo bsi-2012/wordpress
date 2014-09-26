@@ -35,3 +35,5 @@ Atualmente temos duas versões do WordPress, a .com e a .org, muita gente acaba 
 Ambas ganham dinheiro, seja através de doações, ou lucro dos seus produtos, é claro que a Automattic ganha muito mais, já que possui alguns serviços pagos.
 
 * Audrey Capital é uma companhia de fundos de investimentos e pesquisa criada por Matt Mullenweg que ajuda a fundar projetos e negócios que sejam de interesse dos seus investidores. Audrey Capital já ajudou a fundar vários negócios de sucesso, como é o caso da Treehouse, onde a pessoa paga para aprender desenvolvimento web, mobile, etc.
+
+https://slides.com/lucaschurchill/wordpress
